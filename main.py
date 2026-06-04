@@ -60,7 +60,7 @@ class Blogger:
                     {"inlined": {"name": "onepick_version", "content": "v2", "contentType": "text/plain"}},
                     {"inlined": {"name": "onepick_host_id", "content": "10", "contentType": "text/plain"}},
                     {"inlined": {"name": "onepick_host_usecase", "content": "RichEditor", "contentType": "text/plain"}},
-                    {"inlined": {"name": "album_mode", "content": "temporary", "contentType": "text/plain"}},
+                    {"inlined": {"name": "album_mode", "content": "permanent", "contentType": "text/plain"}},
                     {"inlined": {"name": "silo_id", "content": "3", "contentType": "text/plain"}},
                 ]
             },
